@@ -1,0 +1,30 @@
+lucy-clone:
+  password: shptka_daf93947681fae0b944506e648a979e1
+  theme_id: "144742056224"
+  store: lucy-clone.myshopify.com
+  directory: './src'
+  ignore_files:
+    - "*.gif"
+    - "*.jpg"
+    - config/settings_data.json
+    - assets/page.custom.css
+    - assets/custom.css*
+    - locales/ko.json
+
+lucy-clone-full:
+  password: shptka_daf93947681fae0b944506e648a979e1
+  theme_id: "144742056224"
+  store: lucy-clone.myshopify.com
+  directory: './src'
+
+
+development:
+  password: shptka_daf93947681fae0b944506e648a979e1
+  theme_id: '144742056224'
+  store: lucy-clone.myshopify.com
+  directory: './src'
+  ignore_files:
+    - config/settings_data.json
+    - assets/page.custom.css
+    - assets/custom.css*
+    - locales/ko.json
